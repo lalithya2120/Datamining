@@ -1,0 +1,16 @@
+store_name	category_name	revenue
+Annapurna Jayanagar	Baby Care	1106941.04
+Annapurna Jayanagar	Bakery	160107.73999999996
+Annapurna Jayanagar	Beverages	297304.09
+Annapurna Jayanagar	Biscuits & Snacks	96236.85999999999
+Annapurna Jayanagar	Confectionery	220639.51000000004
+Annapurna Jayanagar	Dairy	451213.15
+Annapurna Jayanagar	Edible Oils	1030266.9900000001
+Annapurna Jayanagar	Frozen & Ready to Eat	380334.82
+Annapurna Jayanagar	Fruits & Vegetables	209478.39
+Annapurna Jayanagar	Home Care	380375.70999999996
+Annapurna Jayanagar	Personal Care	436186.79
+Annapurna Jayanagar	Spices & Masala	209895.72000000003
+Annapurna Jayanagar	Staples & Grains	1211339.36
+Annapurna Jayanagar	Stationery & General	309550.67000000004
+Annapurna Jayanagar	Unallocated / unmapped	-64426.89000000001

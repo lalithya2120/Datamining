@@ -1,0 +1,3 @@
+﻿Store S01, October 2024
+Partitioned layout: 31 files, 846899 bytes
+One-folder comparison: 4457 files, 68706877 bytes
