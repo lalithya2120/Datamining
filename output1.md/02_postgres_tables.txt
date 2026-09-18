@@ -1,0 +1,9 @@
+﻿                List of relations
+ Schema |        Name        | Type  |   Owner   
+--------+--------------------+-------+-----------
+ public | price_revisions    | table | annapurna
+ public | product_categories | table | annapurna
+ public | products           | table | annapurna
+ public | stores             | table | annapurna
+(4 rows)
+
